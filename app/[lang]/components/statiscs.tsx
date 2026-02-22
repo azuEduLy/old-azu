@@ -22,7 +22,7 @@ const Statiscs = ({ children }: props) => {
         <StatiscItem title="الطلاب الأجانب" content="55" />
       </AnimatedCard>
       <AnimatedCard XorY="x" intialX={50}>
-        <StatiscItem title="طلاب الدراسات العلمية" content="943" />
+        <StatiscItem title="طلاب الدراسات العليا" content="943" />
       </AnimatedCard>
       <AnimatedCard XorY="x" intialX={60}>
         <StatiscItem title="الكادر الأكاديمي" content="1145" />
