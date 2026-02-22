@@ -16,16 +16,16 @@ const Statiscs = ({ children }: props) => {
         <StatiscItem title="الأقسام العلمية" content="95" />
       </AnimatedCard>
       <AnimatedCard XorY="x" intialX={30}>
-        <StatiscItem title="الطلاب الوطنيون" content="95" />
+        <StatiscItem title="الطلاب الوطنيون" content="8441" />
       </AnimatedCard>
       <AnimatedCard XorY="x" intialX={40}>
-        <StatiscItem title="الطلاب الأجانب" content="61" />
+        <StatiscItem title="الطلاب الأجانب" content="55" />
       </AnimatedCard>
       <AnimatedCard XorY="x" intialX={50}>
-        <StatiscItem title="طلاب الدراسات العلمية" content="724" />
+        <StatiscItem title="طلاب الدراسات العلمية" content="943" />
       </AnimatedCard>
       <AnimatedCard XorY="x" intialX={60}>
-        <StatiscItem title="الكادر الأكاديمي" content="1030" />
+        <StatiscItem title="الكادر الأكاديمي" content="1145" />
       </AnimatedCard>
       <AnimatedCard XorY="x" intialX={70}>
         <StatiscItem title="الموظفون" content="1883" />
@@ -34,10 +34,10 @@ const Statiscs = ({ children }: props) => {
         <StatiscItem title="المدرجات" content="6" />
       </AnimatedCard>
       <AnimatedCard XorY="x" intialX={90}>
-        <StatiscItem title="المكتبات" content="1" />
+        <StatiscItem title="المكتبات" content="20" />
       </AnimatedCard>
       <AnimatedCard XorY="x" intialX={100}>
-        <StatiscItem title="المجلات العلمية" content="412" />
+        <StatiscItem title="المجلات العلمية" content="5" />
       </AnimatedCard>
     </div>
   );
