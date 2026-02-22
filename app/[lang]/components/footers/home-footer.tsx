@@ -32,14 +32,14 @@ const HomeFooter = async ({ lang, className }: Props) => {
               {dictionary.pages.univeristy.overview.title}
             </h4>
             <ul>
-              {/* <li className=" text-sm flex justify-start gap-2 items-center">
+             <li className=" text-sm flex justify-start gap-2 items-center">
                 <span>
                   {" "}
                   {dictionary.pages.univeristy.overview.footer.Address}
-                  {": "}
                 </span>
-              <span>{socialMedia?.address}</span> 
-              </li> */}
+                {": "}
+                <span>{"ترهونة - ليبيا، شارع السلام"}</span>
+              </li>
               <li className=" text-sm flex justify-start gap-2 items-center">
                 <span>
                   {" "}
